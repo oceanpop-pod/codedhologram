@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning java 
 - 💞️ I’m not looking to collaborate at the moment 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm lactose intolerant 
-
+- FUCK AI. Support real artists and learn something. 
 
 
 <!---
