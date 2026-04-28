@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codedhologram
+- 👋 Hi, I’m @oceanpop_pod
 - 👀 I’m interested whales, pole dancing, and python
 - 🌱 I’m currently learning java 
 - 💞️ I’m not looking to collaborate at the moment 
