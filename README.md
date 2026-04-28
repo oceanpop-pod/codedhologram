@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @codedhologram
-- 👀 I’m interested in math, apothecary diaries and crocheting
-- 🌱 I’m currently learning TOO MUCH 
+- 👀 I’m interested whales, pole dancing, and python
+- 🌱 I’m currently learning java 
 - 💞️ I’m not looking to collaborate at the moment 
-- 📫 How to reach me - nah 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm lactose intolerant 
+
+
 
 <!---
 codedhologram/codedhologram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
